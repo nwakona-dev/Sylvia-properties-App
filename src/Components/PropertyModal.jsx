@@ -1,7 +1,7 @@
     import React from "react";
     import { IoLogoWhatsapp } from "react-icons/io5";
     import { X, Bed, Bath, Home, MapPin, Ruler } from "lucide-react";
-    import "../styles/propertyModal.css";
+    import "../Styles/propertyModal.css";
     import "../App.css";
 
     const PropertyModal = ({ property, isOpen, onClose }) => {
