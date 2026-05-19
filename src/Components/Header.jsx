@@ -1,7 +1,7 @@
     import React from "react";
     import { motion, AnimatePresence } from "framer-motion";
     import { Menu, X } from "lucide-react";
-    import { useHeader } from "./headerLogic";
+    import { useHeader } from "./HeaderLogic";
 
     const Header = () => {
     const whatsappMessage = encodeURIComponent(
